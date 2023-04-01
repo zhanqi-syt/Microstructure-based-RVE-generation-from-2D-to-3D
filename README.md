@@ -19,7 +19,7 @@ Additionally, the python codes used in this work can be found on the [GitHub rep
 <br>**Fig. 1. Flowchart of the synthetic RVE generation from real microstructures.**<br>
 <br>
 <br>
-![图8](https://user-images.githubusercontent.com/116877222/229271211-55b1d327-ee08-445c-8a65-237e0ad30032.png)
+![图8](https://user-images.githubusercontent.com/116877222/229278321-ba24951d-e08c-4070-ab8b-e08d1429010a.png)
 <br>**Fig. 2. Microstructures and two-point probability functions of sintered metal particles: (a) real microstructure, (b) generated RVE, and (c) two-point probability functions of real microstructure and generated RVE.**<br>
 
 
