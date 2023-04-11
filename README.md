@@ -1,5 +1,5 @@
 If useful to your research, we would appreciate a citation:<br>
-***Yutai Su, Ziyi Shen, Xu Long, Chuantong Chen, Lehua Qi, Xujiang Chao. Gaussian filtering method of evaluating the elastic/elasto-plastic properties of sintered nanocomposites with quasi-continuous volume distribution[J]. Materials Science and Engineering: A, 2023, XXX.***<br>
+***Yutai Su, Ziyi Shen, Xu Long, Chuantong Chen, Lehua Qi, Xujiang Chao. Gaussian filtering method of evaluating the elastic/elasto-plastic properties of sintered nanocomposites with quasi-continuous volume distribution[J]. Materials Science and Engineering: A, 2023, 872: 145001.***<br>
 https://doi.org/10.1016/j.msea.2023.145001<br>
 Feel free to utilize this code. If any questions, please email us (suyutai@nwpu.edu.cn). <br>
 
